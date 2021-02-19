@@ -1,1 +1,1 @@
-web: npx json-server db.json
+web: npm start
